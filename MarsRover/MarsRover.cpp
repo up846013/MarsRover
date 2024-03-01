@@ -249,6 +249,7 @@ public:
         }
     }
 
+
     void UpdateRoverPosition(Coordinate NewPosition)
     {
         RoverPositions.pop_front();
